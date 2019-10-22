@@ -4,6 +4,5 @@
 - [基础张量操作](./examples/2.Basic_Tensor_Operations.md)
 - [逻辑斯谛回归示例](./examples/2.Logistic_Regression_Example.md)
 - [Word2Vec (Word Embedding)](./examples/3.word2vec.md)
-- [卷积神经网络示例](./examples/Convolutional-Neural-Network-Example.md)
-- [神经网络示例一](./examples/neural_network_raw.md)
-- [神经网络示例二](./examples/neural_network.md)
+- [卷积神经网络示例](./examples/Convolutional_Neural_Network_Example.md)
+- [神经网络示例](./examples/neural_network.md)
