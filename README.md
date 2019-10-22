@@ -1,5 +1,5 @@
 - [MNIST数据集介绍](./examples/0_1_mnist_dataset_intro.md)
-- [Hello World](./examples/1  Hello World.md)
+- [Hello World](./examples/1--Hello-World.md)
 - [线性回归示例](./examples/1.Linear Regression Example.md)
 - [基础张量操作](./examples/2.Basic Tensor Operations.md)
 - [逻辑斯谛回归示例](./examples/2.Logistic Regression Example.md)
